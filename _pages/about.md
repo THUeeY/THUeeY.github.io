@@ -51,7 +51,7 @@ B.S. in Electronic Engineering, 2017~2021
 
 # Publications
 <img src="images/gkgnet_arch.png"
-width="600" style="float: center; margin-right: 30px;"> 
+width="800" style="float: center; margin-right: 30px;"> 
 
 **(ECCV, 2024) GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for Multi-Label Image Recognition** 
   - **Ruijie Yao**, Sheng Jin, Lumin Xu, Wang Zeng, Wentao Liu, Chen Qian, Ping Luo, Ji Wu
@@ -59,7 +59,7 @@ width="600" style="float: center; margin-right: 30px;">
 
 
 <img src="images/unifs_arch.png"
-width="600" style="float: center; margin-right: 30px;"> 
+width="800" style="float: center; margin-right: 30px;"> 
 
 **(ECCV, 2024) UniFS: Universal Few-shot Instance Perception with Point Representations**
   - Sheng Jin\*, **Ruijie Yao\***, Lumin Xu, Wentao Liu, Chen Qian, Ji Wu, Ping Luo
@@ -70,7 +70,7 @@ width="600" style="float: center; margin-right: 30px;">
 **2021 APTO Big Data Competition**
 
 <img src="images/aptos_project.png"
-width="600" style="float: center; margin-right: 30px;"> 
+width="800" style="float: center; margin-right: 30px;"> 
 
 - Prediction on DME Patients’ Response to Anti-VEGF Treatment
 - Led a team to secure first place among 10,000+ teams globally, winning an $8K prize.
