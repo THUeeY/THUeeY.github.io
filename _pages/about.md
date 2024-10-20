@@ -21,6 +21,7 @@ machine learning, and medical intelligence.
 # News
 
 - **[2024.07]** Two papers accepted to ECCV'2024.
+- **[2022.02]** We won the championship of [APTO Big Data Competition](https://tianchi.aliyun.com/competition/entrance/531929/information?lang=en-us).
 
  <br>
 
@@ -63,3 +64,15 @@ width="600" style="float: center; margin-right: 30px;">
 **(ECCV, 2024) UniFS: Universal Few-shot Instance Perception with Point Representations**
   - Sheng Jin\*, **Ruijie Yao\***, Lumin Xu, Wentao Liu, Chen Qian, Ji Wu, Ping Luo
   - [Paper](https://arxiv.org/abs/2404.19401)  [Code](https://github.com/jin-s13/UniFS) [Youtube](https://www.youtube.com/watch?v=f1rI7ym5tSs&list=LL)
+
+
+# Competitions
+**2021 APTO Big Data Competition**
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="images/aptos_award.jpeg" width="125" style="margin-right: 0px;">
+    <img src="images/aptos_project.png" width="380" style="margin-left: 0px;">
+</div>
+
+- Prediction on DME Patients’ Response to Anti-VEGF Treatment
+- Led a team to secure first place among 10,000+ teams globally, winning an $8K prize.
