@@ -69,10 +69,8 @@ width="600" style="float: center; margin-right: 30px;">
 # Competitions
 **2021 APTO Big Data Competition**
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="images/aptos_award.jpeg" width="125" style="margin-right: 0px;">
-    <img src="images/aptos_project.png" width="380" style="margin-left: 0px;">
-</div>
+<img src="images/aptos_project.png"
+width="600" style="float: center; margin-right: 30px;"> 
 
 - Prediction on DME Patients’ Response to Anti-VEGF Treatment
 - Led a team to secure first place among 10,000+ teams globally, winning an $8K prize.
