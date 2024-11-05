@@ -55,7 +55,7 @@ width="800" style="float: center; margin-right: 30px;">
 
 **(ECCV, 2024) GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for Multi-Label Image Recognition** 
   - **Ruijie Yao**, Sheng Jin, Lumin Xu, Wang Zeng, Wentao Liu, Chen Qian, Ping Luo, Ji Wu
-  - [Paper](https://arxiv.org/pdf/2308.14378)  [Code](https://github.com/jin-s13/UniFS) [Youtube](https://www.youtube.com/watch?v=oRIfIU0afgE)
+  - [Paper](https://arxiv.org/pdf/2308.14378)  [Code](https://github.com/jin-s13/GKGNet) [Youtube](https://www.youtube.com/watch?v=oRIfIU0afgE)
 
 
 <img src="images/unifs_arch.png"
@@ -65,6 +65,7 @@ width="800" style="float: center; margin-right: 30px;">
   - Sheng Jin\*, **Ruijie Yao\***, Lumin Xu, Wentao Liu, Chen Qian, Ji Wu, Ping Luo
   - [Paper](https://arxiv.org/abs/2404.19401)  [Code](https://github.com/jin-s13/UniFS) [Youtube](https://www.youtube.com/watch?v=f1rI7ym5tSs&list=LL)
 
+ <br>
 
 # Competitions
 **2021 APTO Big Data Competition**
