@@ -91,6 +91,7 @@ width="800" style="float: center; margin-right: 30px;">
 applied in hospitals with six patents earned.
 
 
+
 # Competitions
 **[2021 APTO Big Data Competition](https://tianchi.aliyun.com/competition/entrance/531929/information?lang=en-us)**
 
