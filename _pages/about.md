@@ -86,6 +86,7 @@ width="800" style="float: center; margin-right: 30px;">
 width="800" style="float: center; margin-right: 30px;"> 
 
 **(Project) Vertebral Body Detection System for Spinal X-rays**
+  - Weishi Li, Ji Wu, Nanfang Xu, Shanshan Liu, Chenyi Guo, **Ruijie Yao** (First Student Inventor)
   - High-accuracy spine detection from cervical to lumbar and sacral angles, 
 applied in hospitals with six patents earned.
 
