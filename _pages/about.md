@@ -31,9 +31,24 @@ machine learning, and medical intelligence.
   
 M.S. in Electronic Engineering, 2021~2024
 
-<img src="images/Tsinghua_University_Logo.svg.png" alt="Tsinghua University Logo" width="75" style="float: left; margin-right: 30px;"> **Tsinghua University**
+<img src="images/Tsinghua_University_Logo.svg.png" alt="Tsinghua University Logo" 
+width="75" style="float: left; margin-right: 30px;"> **Tsinghua University**
 
 B.S. in Electronic Engineering, 2017~2021
+
+ <br>
+
+# Internships
+
+<img src="images/sensetime.png"  
+height="75" width="75" style="float: left; margin-right: 30px;"> **Sensetime**
+  
+Computer Vision Algorithm Researcher, 2022~2024
+
+<img src="images/towardpi.png" 
+height="75" width="75" style="float: left; margin-right: 30px;"> **TowardPi**
+
+Artificial Intelligence Algorithm Engineer, 2021~2024
 
  <br>
 
@@ -49,7 +64,7 @@ B.S. in Electronic Engineering, 2017~2021
 
  <br>
 
-# Publications
+# Publications & Projects
 <img src="images/gkgnet_arch.png"
 width="800" style="float: center; margin-right: 30px;"> 
 
@@ -67,11 +82,19 @@ width="800" style="float: center; margin-right: 30px;">
 
  <br>
 
+<img src="images/spine.png"
+width="800" style="float: center; margin-right: 30px;"> 
+
+**(Project) Vertebral Body Detection System for Spinal X-rays**
+  - High-accuracy spine detection from cervical to lumbar and sacral angles, 
+applied in hospitals with six patents earned.
+
+
 # Competitions
-**2021 APTO Big Data Competition**
+**[2021 APTO Big Data Competition](https://tianchi.aliyun.com/competition/entrance/531929/information?lang=en-us)**
 
 <img src="images/aptos_project.png"
 width="800" style="float: center; margin-right: 30px;"> 
 
 - Prediction on DME Patients’ Response to Anti-VEGF Treatment
-- Led a team to secure first place among 10,000+ teams globally, winning an $8K prize.
+- Led a team to secure **first place** among 10,000+ teams globally, winning an $8K prize.
