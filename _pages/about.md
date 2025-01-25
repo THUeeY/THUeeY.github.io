@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am excited to soon join **Duke** University as a PhD student in 
-the MEMS program in Sping 2025, 
+I am a first-year Ph.D. student in the MEMS program at Duke University, 
 under the supervision of [Prof. Xiaoyue Ni](https://pratt.duke.edu/people/xiaoyue-ni).
 
 In 2024, I received my master's degree in the Department of Electronic Engineering at Tsinghua University, where I was advised by [Prof. Ji Wu](https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm). In 2021, I completed my undergraduate studies in the same department at Tsinghua University.
@@ -26,6 +25,14 @@ machine learning, and medical intelligence.
  <br>
 
 # Education
+<img src="images/Duke_University_logo.svg.png" alt="Duke University Logo"
+width="75"
+style="float: left; margin-right: 30px;"> 
+**Duke University**
+  
+PH.D. in Mechanical Engineering & Materials Science, 2025~Present
+
+
 
 <img src="images/Tsinghua_University_Logo.svg.png" alt="Tsinghua University Logo" width="75" style="float: left; margin-right: 30px;"> **Tsinghua University**
   
