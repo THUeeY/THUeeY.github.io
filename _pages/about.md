@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the MEMS program at Duke University, 
-under the supervision of [Prof. Xiaoyue Ni](https://pratt.duke.edu/people/xiaoyue-ni).
+I am a second-year Ph.D. student in the Department of Mechanical Engineering and Materials Science (MEMS) at Duke University, advised by [Prof. Xiaoyue Ni](https://pratt.duke.edu/people/xiaoyue-ni). Before joining Duke, I received my B.S. and M.S. in Electronic Engineering from Tsinghua University, where I worked with [Prof. Ji Wu](https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm).
 
-In 2024, I received my master's degree in the Department of Electronic Engineering at Tsinghua University, where I was advised by [Prof. Ji Wu](https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm). In 2021, I completed my undergraduate studies in the same department at Tsinghua University.
+My research sits at the intersection of artificial intelligence and healthcare. I am particularly interested in how real-world medical challenges can inspire new algorithmic ideas. Over the past few years, my work has explored several clinical applications, including assisting physicians in diagnosing spinal conditions from X-ray images, reconstructing a patient's healthy voice for individuals with motor neuron diseases, and building multimodal models to support treatment decisions for diabetes.
 
-My research interests include computer vision, 
-machine learning, and medical intelligence.
+In approaching these problems, I tend to pay close attention to interpretability. In medical settings, predictions alone are rarely sufficient; clinicians need to understand why a model reaches a conclusion before they can trust it. This perspective has shaped my work on graph-based visual recognition models that connect predictions to image regions, as well as on few-shot learning methods designed for data-scarce environments.
+
+At Duke, I am currently working on wearable sensing systems and exploring how large language models can reason about physiological signals in more transparent and structured ways to support assistive healthcare technologies.
 
  <br>
 
 # News
 
 - **[2024.07]** Two papers accepted to ECCV'2024.
-- **[2022.02]** We won the championship of [APTO Big Data Competition](https://tianchi.aliyun.com/competition/entrance/531929/information?lang=en-us).
+- **[2022.02]** 🎉🎉🎉 We secure first place among 10,000+ teams globally of [APTO Big Data Competition](/competitions/).
 
  <br>
 
@@ -61,49 +61,17 @@ Artificial Intelligence Algorithm Engineer, 2021~2024
 
 # Awards & Honors
 
+- **The Duke Summit on AI for Health Innovation Scholarship**, *2025*
 - **Tsinghua Comprehensive Excellent Scholarship**, *2023*
 - **Tsinghua-Xuancheng Scholarship**, *2022*
-- **Champion of [APTO Big Data Competition](https://tianchi.aliyun.com/competition/entrance/531929/information?lang=en-us)**  
-  (Global competition with 10,000+ participating teams), *2021*
 - **National Encouragement Scholarship**, *2020*
 - **Tsinghua - Mr. and Mrs. Huang Yicong Scholarship**, *2019*
 - **National Encouragement Scholarship**, *2018*
 
  <br>
 
-# Publications & Projects
-<img src="images/gkgnet_arch.png"
-width="800" style="float: center; margin-right: 30px;"> 
+# Service
 
-**(ECCV, 2024) GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for Multi-Label Image Recognition** 
-  - **Ruijie Yao**, Sheng Jin, Lumin Xu, Wang Zeng, Wentao Liu, Chen Qian, Ping Luo, Ji Wu
-  - [Paper](https://arxiv.org/pdf/2308.14378)  [Code](https://github.com/jin-s13/GKGNet) [Youtube](https://www.youtube.com/watch?v=oRIfIU0afgE)
-
-
-<img src="images/unifs_arch.png"
-width="800" style="float: center; margin-right: 30px;"> 
-
-**(ECCV, 2024) UniFS: Universal Few-shot Instance Perception with Point Representations**
-  - Sheng Jin\*, **Ruijie Yao\***, Lumin Xu, Wentao Liu, Chen Qian, Ji Wu, Ping Luo
-  - [Paper](https://arxiv.org/abs/2404.19401)  [Code](https://github.com/jin-s13/UniFS) [Youtube](https://www.youtube.com/watch?v=f1rI7ym5tSs&list=LL)
+- **Reviewer** for CVPR, ECCV, AISTATS, WiCV, GRAIL.
 
  <br>
-
-<img src="images/spine.png"
-width="800" style="float: center; margin-right: 30px;"> 
-
-**(Project) Vertebral Body Detection System for Spinal X-rays**
-  - Weishi Li, Ji Wu, Nanfang Xu, Shanshan Liu, Chenyi Guo, **Ruijie Yao** (First Student Inventor)
-  - High-accuracy spine detection from cervical to lumbar and sacral angles, 
-applied in hospitals with six patents earned.
-
-
-
-# Competitions
-**[2021 APTO Big Data Competition](https://tianchi.aliyun.com/competition/entrance/531929/information?lang=en-us)**
-
-<img src="images/aptos_project.png"
-width="800" style="float: center; margin-right: 30px;"> 
-
-- Prediction on DME Patients’ Response to Anti-VEGF Treatment
-- Led a team to secure **first place** among 10,000+ teams globally, winning an $8K prize.
