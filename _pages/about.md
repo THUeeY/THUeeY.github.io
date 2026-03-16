@@ -15,9 +15,15 @@ In approaching these problems, I tend to pay close attention to interpretability
 
 At Duke, I am currently working on wearable sensing systems and exploring how large language models can reason about physiological signals in more transparent and structured ways to support assistive healthcare technologies.
 
+**[Download my CV (PDF)]({{ base_path }}/files/RuijieYao_CV.pdf){: .btn}**
+
  <br>
 
 # News
+
+<div class="notice--info" markdown="1">
+**I am currently looking for internships.** Please feel free to reach out if you have relevant opportunities.
+</div>
 
 - **[2024.07]** Two papers accepted to ECCV'2024.
 - **[2022.02]** 🎉🎉🎉 We secure first place among 10,000+ teams globally of [APTO Big Data Competition](/competitions/).
