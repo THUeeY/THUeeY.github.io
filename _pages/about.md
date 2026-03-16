@@ -9,11 +9,14 @@ redirect_from:
 
 I am a second-year Ph.D. student in the Department of Mechanical Engineering and Materials Science (MEMS) at Duke University, advised by [Prof. Xiaoyue Ni](https://pratt.duke.edu/people/xiaoyue-ni). Before joining Duke, I received my B.S. and M.S. in Electronic Engineering from Tsinghua University, where I worked with [Prof. Ji Wu](https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm).
 
-My research sits at the intersection of artificial intelligence and healthcare. I am particularly interested in how real-world medical challenges can inspire new algorithmic ideas. Over the past few years, my work has explored several clinical applications, including assisting physicians in diagnosing spinal conditions from X-ray images, reconstructing a patient's healthy voice for individuals with motor neuron diseases, and building multimodal models to support treatment decisions for diabetes.
+My research lies at the intersection of AI and healthcare. I am interested in how real-world medical challenges shape the development of new algorithms. In previous work, I explored problems ranging from spinal condition diagnosis from X-ray images to voice reconstruction for patients with motor neuron diseases, as well as multimodal decision support for diabetes care.
 
-In approaching these problems, I tend to pay close attention to interpretability. In medical settings, predictions alone are rarely sufficient; clinicians need to understand why a model reaches a conclusion before they can trust it. This perspective has shaped my work on graph-based visual recognition models that connect predictions to image regions, as well as on few-shot learning methods designed for data-scarce environments.
+A central theme of my work is interpretability. In clinical settings, predictions alone are rarely sufficient. This perspective has led me to study graph-based visual recognition and few-shot learning methods designed for data-scarce medical environments.
 
-At Duke, I am currently working on wearable sensing systems and exploring how large language models can reason about physiological signals in more transparent and structured ways to support assistive healthcare technologies.
+I also value long-term collaboration and stable research partnerships. Through multi-year projects with TowardPi and SenseTime, I gained experience building AI systems that can be maintained and extended beyond the scope of a single study.
+
+At Duke, I work on wearable sensing systems and investigate how language models can reason about physiological signals in more transparent ways to support assistive healthcare technologies.
+
 
 **[Download my CV (PDF)]({{ base_path }}/files/RuijieYao_CV.pdf){: .btn}**
 
