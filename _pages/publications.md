@@ -10,6 +10,14 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<br>
+
+<img src="{{ base_path }}/images/tcnet.png"
+width="800" style="float: center; margin-right: 30px;"> 
+
+**(Project,2026) TCNet: Interpretable Sensor Feature Correction for LLM-Aided Healthcare**
+  - LLMs cannot directly process raw sensor data, but they can reason about interpretable statistics such as means, trends, and distributions. However, these statistical features are sensitive to noise, rotation, and other distortions. We propose TCNet, a lightweight neural network that corrects statistical IMU features under rotation and noise distortions while preserving their interpretability. TCNet achieves state-of-the-art performance on 5 public human activity recognition (HAR) benchmarks and enables robust, interpretable activity recognition for clinical diagnosis—serving as an innovative framework that feeds cleaned, human-understandable features to LLMs.
+
  <br>
 
 <img src="{{ base_path }}/images/MANet.jpg"
