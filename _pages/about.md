@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<div class="notice--info" markdown="1" style="margin-top: 0;">
+**I am currently looking for internships.** Please feel free to reach out if you have relevant opportunities.
+</div>
+
 I am a second-year Ph.D. student in the Department of Mechanical Engineering and Materials Science (MEMS) at Duke University, advised by [Prof. Xiaoyue Ni](https://pratt.duke.edu/people/xiaoyue-ni). Before joining Duke, I received my B.S. and M.S. in Electronic Engineering from Tsinghua University, where I worked with [Prof. Ji Wu](https://www.ee.tsinghua.edu.cn/en/info/1064/1273.htm).
 
 My research lies at the intersection of AI and healthcare. I am interested in how real-world medical challenges shape the development of new algorithms. In previous work, I explored problems ranging from spinal condition diagnosis from X-ray images to voice reconstruction for patients with motor neuron diseases, as well as multimodal decision support for diabetes care.
@@ -23,10 +27,6 @@ At Duke, I work on wearable sensing systems and investigate how language models 
  <br>
 
 # News
-
-<div class="notice--info" markdown="1">
-**I am currently looking for internships.** Please feel free to reach out if you have relevant opportunities.
-</div>
 
 - **[2024.07]** Two papers accepted to ECCV'2024.
 - **[2022.02]** 🎉🎉🎉 We secure first place among 10,000+ teams globally of [APTO Big Data Competition](/competitions/).
